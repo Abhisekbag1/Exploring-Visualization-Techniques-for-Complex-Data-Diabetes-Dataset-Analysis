@@ -22,3 +22,9 @@ Loaded the Diabetes dataset into a Pandas DataFrame.
 2.The functions were called with the Diabetes dataset to generate insights.
 # Analysis
 Compared and analyzed the visualizations based on readability, insightfulness, and usability for decision-making.
+
+
+## Exploring Visualization Techniques for Complex Data: Diabetes Dataset Analysis:
+# Line Chart:
+![Line Chart](![Screenshot (1794)](https://github.com/user-attachments/assets/3fa87221-e576-452e-9c3c-3067b0edc49a)
+)
