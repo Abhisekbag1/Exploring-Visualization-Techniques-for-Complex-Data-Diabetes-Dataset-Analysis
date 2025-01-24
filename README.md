@@ -28,5 +28,9 @@ Compared and analyzed the visualizations based on readability, insightfulness, a
 # Line Chart:
 ![Screenshot (1794)](https://github.com/user-attachments/assets/3fa87221-e576-452e-9c3c-3067b0edc49a)
 
+# Scatter Plot:
+![Scatter Plot](![Uploading Screenshot (1795).png…]()
+)
+
 
 
