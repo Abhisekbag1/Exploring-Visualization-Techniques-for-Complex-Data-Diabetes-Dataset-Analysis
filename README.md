@@ -27,4 +27,6 @@ Compared and analyzed the visualizations based on readability, insightfulness, a
 ## Exploring Visualization Techniques for Complex Data: Diabetes Dataset Analysis:
 # Line Chart:
 ![Line Chart](![Screenshot (1794)](https://github.com/user-attachments/assets/3fa87221-e576-452e-9c3c-3067b0edc49a)
-)
+
+
+
