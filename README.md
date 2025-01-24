@@ -29,11 +29,14 @@ Compared and analyzed the visualizations based on readability, insightfulness, a
 ![Screenshot (1794)](https://github.com/user-attachments/assets/3fa87221-e576-452e-9c3c-3067b0edc49a)
 
 # Scatter Plot
-![Scatter Plot](![Screenshot (1795)](https://github.com/user-attachments/assets/327d5414-e455-4e21-af38-0234677df9bc)
+![Screenshot (1795)](https://github.com/user-attachments/assets/327d5414-e455-4e21-af38-0234677df9bc)
 
 # Heatmap
-![Heatmap](![Screenshot (1796)](https://github.com/user-attachments/assets/9d34dc2e-c25b-4cc2-b040-3f91dc84d245)
-)
+![Screenshot (1796)](https://github.com/user-attachments/assets/9d34dc2e-c25b-4cc2-b040-3f91dc84d245)
+
+# 3D Plot
+![Screenshot (1797)](https://github.com/user-attachments/assets/8064e908-fd2c-4207-bb57-3f06a0f30a1a)
+
 
 
 
