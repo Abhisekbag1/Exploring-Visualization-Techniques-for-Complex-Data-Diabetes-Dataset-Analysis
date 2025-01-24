@@ -32,7 +32,7 @@ Compared and analyzed the visualizations based on readability, insightfulness, a
 ![Scatter Plot](![Screenshot (1795)](https://github.com/user-attachments/assets/327d5414-e455-4e21-af38-0234677df9bc)
 
 # Heatmap
-![Heatmap](![Uploading Screenshot (1796).png…]()
+![Heatmap](![Screenshot (1796)](https://github.com/user-attachments/assets/9d34dc2e-c25b-4cc2-b040-3f91dc84d245)
 )
 
 
